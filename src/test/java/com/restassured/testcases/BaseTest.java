@@ -57,7 +57,7 @@ public class BaseTest {
 
 	/*
 	 * This method helps to write the request and reponse to the extent report
-	 * @author Amuthan Sakthivel
+	 * @author Amuthan Sakthiveltest
 	 */
 	@BeforeMethod
 	public void setUp() {
